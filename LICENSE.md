@@ -1,6 +1,6 @@
-PiOS License
+MİT License
 
-Copyright (C) 2022 Pi Core Team
+Copyright (C) 2025 Furkan Yılmaz
 
 Permission is hereby granted by the application software developer (“Software Developer”), free
 of charge, to any person obtaining a copy of this application, software and associated 
